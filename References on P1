@@ -1,0 +1,11 @@
+## Canny Edge Detection Auto Thresholding
+link: http://www.kerrywong.com/2009/05/07/canny-edge-detection-auto-thresholding/
+
+outlook: The simplest way is to use the mean value of the gray scale image pixel values. As a rule of thumb, we set the low threshold to 0.66*[mean value] and set the high threshold to 1.33*[mean value]. Another way is to use the median color in the gray scale image and uses 0.66*[median value] and 1.33*[median value] accordingly. For typical images, these two methods achieve comparable results.
+
+## ROBUST AND REAL TIME DETECTION OF CURVY LANES (CURVES) HAVING DESIRED SLOPES FOR DRIVING ASSISTANCE AND AUTONOMOUS VEHICLES
+link:https://airccj.org/CSCP/vol5/csit53211.pdf
+
+## Lane detection !!
+## important!
+link: https://chatbotslife.com/self-driving-cars-advanced-computer-vision-with-opencv-finding-lane-lines-488a411b2c3d
